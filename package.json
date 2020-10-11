@@ -1,0 +1,21 @@
+{
+  "name": "arithmetic-expression-generator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha",
+    "config": "node-gyp configure",
+    "build": "node-gyp build",
+    "build:dev": "node-gyp build --debug"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bindings": "^1.5.0",
+    "node-addon-api": "^3.0.2"
+  },
+  "devDependencies": {
+    "mocha": "^8.1.3"
+  }
+}
