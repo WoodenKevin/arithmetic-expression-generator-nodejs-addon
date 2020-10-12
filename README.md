@@ -14,7 +14,7 @@ npm install
 npm install -g node-gyp
 ```
 
--   Depending on your operating system, you will need to install aditional tools. Please read [Installation | node-gyp](https://github.com/nodejs/node-gyp#Installation)
+-   Depending on your operating system, you will need to install additional tools. Please read [Installation | node-gyp](https://github.com/nodejs/node-gyp#Installation)
 
 ## Usage
 
