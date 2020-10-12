@@ -2,12 +2,11 @@
   "name": "arithmetic-expression-generator",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "addon.js",
   "scripts": {
     "test": "mocha",
     "config": "node-gyp configure",
-    "build": "node-gyp build",
-    "build:dev": "node-gyp build --debug"
+    "build": "node-gyp build"
   },
   "author": "",
   "license": "ISC",
